@@ -1,5 +1,5 @@
 /**
- * Created by Martin on 13/02/2016.
+ * Created by Martin on 18/02/2016.
  */
 define(['jquery',
 		'vizAppView'
